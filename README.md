@@ -44,3 +44,5 @@ __Melhoria__ 1, _Melhoria 2_
 [Google](https://www.google.com/)
 
 [https://www.horadecodar.com.br](https://www.horadecodar.com.br)
+
+contribuidor principal: https://github.com/Homailson

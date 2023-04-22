@@ -38,3 +38,7 @@ __Melhoria__ 1, _Melhoria 2_
 #### Imagem externa
 
 ![Logo do PHP](https://www.php.net/images/logos/new-php-logo.svg)
+
+## Lingks interessantes
+
+[Google](https://www.google.com/)

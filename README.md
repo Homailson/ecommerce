@@ -6,6 +6,17 @@ Vamos criar um **e-commerce**, para a *empresa X* e blablabla
 
 _Checkout, **Tela de produto**, Catálogo, Home com banner_
 
+**Checkout, _Tela de produto_, Catálogo, Home com banner**
+
 ###### Melhorias no projeto
 
-Melhoria 1, Melhoria 2
+__Melhoria__ 1, _Melhoria 2_
+
+
+### Linguagens do projeto
+
+* Html
+* Css
+* JavaScript
+* PHP
+*MySQL

@@ -56,3 +56,13 @@ functionsoma(a,b){
     return a+b
 }
 ```
+
+## Lista de Tarefas a fazer
+
+- [ x ] Área de membros
+
+- [   ] Integração com outros pagamentos
+
+- [   ] Sistema de bônus
+
+- [   ] CSS do rodapé

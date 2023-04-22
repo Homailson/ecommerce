@@ -1,2 +1,8 @@
-# ecommerce
-Este é um diretório de estudo sobre o GitHub. Ecommerce é somente um estudo de caso.
+# Ecommerce empresa X
+
+Vamos criar um e-commerce, para a empresa X e blablabla
+
+## Funcionalidades
+
+Checkout, Tela de produto, Catálogo, Home com banner
+

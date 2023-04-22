@@ -46,3 +46,5 @@ __Melhoria__ 1, _Melhoria 2_
 [https://www.horadecodar.com.br](https://www.horadecodar.com.br)
 
 contribuidor principal: https://github.com/Homailson
+
+[![logo do PHP]( https://www.php.net/images/logos/new-php-logo.svg)]( contribuidor principal: https://github.com/Homailson)
